@@ -1,4 +1,4 @@
-weather<div align="center"> 
+<div align="center"> 
   
   # Chill Live Wallpaper Project 
   _Early access - v0.66 - Weather update_
